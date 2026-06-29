@@ -1,2 +1,2 @@
 # file-sort
-A noob's trial for sorting files.Based on Python.
+Trial for sorting files.Based on Python.
